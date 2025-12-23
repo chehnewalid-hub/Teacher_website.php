@@ -6,8 +6,8 @@
 
 $host = "localhost";
 $db_name = "english_teacher_site";
-$username = "root";      // عدّل إذا لزم
-$password = "";          // عدّل إذا لزم
+$username = "root";     
+$password = "";     
 
 try {
     $pdo = new PDO(
